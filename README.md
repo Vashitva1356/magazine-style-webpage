@@ -11,8 +11,8 @@ A responsive, magazine-style webpage built using **HTML5** and **CSS3** as part 
 - Lazy-loading optimized images
 
 ## Demo
-- **Live Site:** [https://yourusername.github.io/magazine-style-webpage/](https://yourusername.github.io/magazine-style-webpage/)
-- **Source Code:** [https://github.com/yourusername/magazine-style-webpage](https://github.com/yourusername/magazine-style-webpage)
+- **Live Site:** https://vashitva1356.github.io/magazine-style-webpage/
+- **Source Code:** https://github.com/Vashitva1356/magazine-style-webpage.git
 
 ## How to Run Locally
 1. Clone the repo:
